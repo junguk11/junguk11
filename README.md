@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align='center'>
+<h2>Developer-Superluminal</h2>
 
-<!--
-**junguk11/junguk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+꾸준한 발전과 효율적인 상태관리를 지향합니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,git,github,ai,js,py,vscode" />
+  </a>
+</p>
+  </div>
