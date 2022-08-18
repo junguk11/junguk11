@@ -2,7 +2,7 @@
   <div>
 <h2>Developer-Superluminal</h2>
   <br/>
-  도전을 두려워 하지 않는 개발자!
+   새로운 도전을 두려워 하지 않는 프론트엔드 개발자 김정욱 입니다.
   <br/>
   <br/>
   </div>
