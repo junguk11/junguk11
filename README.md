@@ -8,7 +8,7 @@
   </div>
 
 <h3>Skill</h3>
-  <br/><br/>
+  <br/>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,js,react,typescript,redux,git,py,vscode,ai" />
