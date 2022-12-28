@@ -6,6 +6,9 @@
   <br/>
   <br/>
   </div>
+### STAT
+![junguk GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11&show_icons=true&theme=dracula)
+
 <h2>Skill</h2>
   <br/><br/>
   <p align="center">
