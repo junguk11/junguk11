@@ -6,7 +6,8 @@
   <br/>
   <br/>
   </div>
-<br/><br/>
+  <br/>
+  <br/>
 <h3>Skill</h3>
   <br/>
   <p align="center">
@@ -14,13 +15,9 @@
       <img src="https://skillicons.dev/icons?i=html,js,react,typescript,redux,git,py,vscode,ai" />
     </a>
   </p>
-<br/>
-<br/>
+  <br/>
+  <br/>
+<h3>Stat</h3>
+  <br/>
 </div>
-
-<!-- ### Stat
-<br/>
-
 [![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
