@@ -1,10 +1,6 @@
 <div align='center'>
-  
-### STAT
-[![junguk's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=junguk11&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
   <div>
-<h2>Developer-Superluminal</h2>
+### Developer-Superluminal
   <br/>
    새로운 도전을 두려워 하지 않는 프론트엔드 개발자 김정욱 입니다.
   <br/>
