@@ -19,5 +19,9 @@
   <br/>
 <h3>Stat</h3>
   <br/>
+  
+  [![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-[![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
