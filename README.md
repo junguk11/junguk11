@@ -14,12 +14,13 @@
       <img src="https://skillicons.dev/icons?i=html,js,react,typescript,redux,git,py,vscode,ai" />
     </a>
   </p>
-</div>
+
 <br/>
 <br/>
 <h3>Stat</h3>
-
-
+<br/>
 [![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
-
+</div>
