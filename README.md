@@ -15,6 +15,7 @@
     </a>
   </p>
 </div>
-
-### STAT
-[![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+<h3>Stat</h3>
+[![junguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguk11)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
